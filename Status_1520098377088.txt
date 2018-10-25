@@ -1,0 +1,153 @@
+Client 1
+IP Address:192.0.0.1
+MAC Address:128.0.0.1
+Client 2
+IP Address:192.0.0.2
+MAC Address:128.0.0.2
+Client 3
+IP Address:192.0.0.3
+MAC Address:128.0.0.3
+Client 4
+IP Address:192.0.0.4
+MAC Address:128.0.0.4
+Client 5
+IP Address:192.0.0.5
+MAC Address:128.0.0.5
+Client 6
+IP Address:192.0.0.6
+MAC Address:128.0.0.6
+Server 1
+IP Address:192.0.0.7
+MAC Address:128.0.0.7
+Server 2
+IP Address:192.0.0.8
+MAC Address:128.0.0.8
+Switch 1
+MAC Address:128.0.0.9
+Switch 2
+MAC Address:128.0.0.10
+Switch 3
+MAC Address:128.0.0.11
+Connected client: Client 3
+Connected server: Server 2
+Number of hops: 2
+Message: Hi, how're you? I'm fine.
+Number of Bytes received: 25
+Time taken to send the message: 1161 ms.
+Number of Packets created: 5
+Packet Sequence Number 1:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 2:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 3:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 4:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 5:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Message: Hi, how're you? I'm fine. Hi hi hi hi
+Number of Bytes received: 37
+Time taken to send the message: 87 ms.
+Number of Packets created: 8
+Packet Sequence Number 1:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 2:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 3:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 4:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 5:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 1:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 2:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 3:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 2
+Connected client: Client 3
+Connected server: Server 1
+Number of hops: 2
+Message: hvjfbviuerug fiuerhfernk gfeiruhferkf
+Number of Bytes received: 37
+Time taken to send the message: 68 ms.
+Number of Packets created: 8
+Packet Sequence Number 1:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 2:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 3:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 4:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 5:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 1:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 2:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 5
+Packet Sequence Number 3:
+Packet Source Address: 128.0.0.3
+Packet Destination Address: 128.0.0.8
+Packet Application Number: 3
+Packet size: 2

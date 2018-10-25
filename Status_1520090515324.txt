@@ -1,0 +1,54 @@
+Client 1
+IP Address:192.0.0.1
+MAC Address:128.0.0.1
+Client 2
+IP Address:192.0.0.2
+MAC Address:128.0.0.2
+Client 3
+IP Address:192.0.0.3
+MAC Address:128.0.0.3
+Client 4
+IP Address:192.0.0.4
+MAC Address:128.0.0.4
+Server 1
+IP Address:192.0.0.5
+MAC Address:128.0.0.5
+Server 2
+IP Address:192.0.0.6
+MAC Address:128.0.0.6
+Server 3
+IP Address:192.0.0.7
+MAC Address:128.0.0.7
+Server 4
+IP Address:192.0.0.8
+MAC Address:128.0.0.8
+Switch 1
+MAC Address:128.0.0.9
+Switch 2
+MAC Address:128.0.0.10
+Connected client: Client 4
+Connected server: Server 2
+Number of hops: 1
+Message: hello
+Number of Bytes received: 5
+Time taken to send the message: 1095 ms.
+Number of Packets created: 1
+Packet Sequence Number 1:
+Packet Source Address: 128.0.0.4
+Packet Destination Address: 128.0.0.6
+Packet Application Number: 4
+Packet size: 5
+Message: hello hi
+Number of Bytes received: 8
+Time taken to send the message: 95 ms.
+Number of Packets created: 2
+Packet Sequence Number 1:
+Packet Source Address: 128.0.0.4
+Packet Destination Address: 128.0.0.6
+Packet Application Number: 4
+Packet size: 5
+Packet Sequence Number 1:
+Packet Source Address: 128.0.0.4
+Packet Destination Address: 128.0.0.6
+Packet Application Number: 4
+Packet size: 3
